@@ -20,17 +20,12 @@
 - ⚡ Fun fact **I love brainstorming over real life problems.**
 <hr>
 <p align="center>
-<h3 align="center">Connect with me:</h3>
-<a href="https://twitter.com/shashwat_shahi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shashwat_shahi_" height="30" width="40" /></a>
-<p>|</p>
-<a href="https://github.com/shashwats538_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="shashwats538 height="30" width="40" /></a>
-<p>|</p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashwat-shahi-039459172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shashwat-shahi-039459172/" height="30" width="40" /></a>
-<p>|</p>
-<a href="https://fb.com/https://www.facebook.com/shashwat.shahi.538/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/shashwat.shahi.538/" height="30" width="40" /></a>
-<p>|</p>
-<a href="https://instagram.com/shashwat_shahi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shashwat_shahi" height="30" width="40" /></a>
-<p>|</p>
+<h3 align="center">Connect with me:</h3><br>
+<a href="https://twitter.com/shashwat_shahi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shashwat_shahi_" height="30" width="40" /></a>|
+<a href="https://github.com/shashwats538_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="shashwats538 height="30" width="40" /></a>|
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashwat-shahi-039459172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shashwat-shahi-039459172/" height="30" width="40" /></a>|
+<a href="https://fb.com/https://www.facebook.com/shashwat.shahi.538/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/shashwat.shahi.538/" height="30" width="40" /></a>|
+<a href="https://instagram.com/shashwat_shahi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shashwat_shahi" height="30" width="40" /></a>|
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
