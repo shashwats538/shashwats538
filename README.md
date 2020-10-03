@@ -19,8 +19,8 @@
 
 - ⚡ Fun fact **I love brainstorming over real life problems.**
 <hr>
-<p align="center>
-<h3 align="center">Connect with me:</h3><br>
+<p align="center">
+<h3 align="center"><b>Connect with me:</b></h3><br>
 <a href="https://twitter.com/shashwat_shahi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shashwat_shahi_" height="30" width="40" /></a>|
 <a href="https://github.com/shashwats538_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="shashwats538 height="30" width="40" /></a>|
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shashwat-shahi-039459172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shashwat-shahi-039459172/" height="30" width="40" /></a>|
