@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, Myself Shashwat Shahi</h1>
 <h3 align="center">A Passionate Aspiring Software Engineer from India and A Beginner in Open Source Contributions.</h3>
 
+<img align="right" width=300px alt="Github Cat" src="https://raw.githubusercontent.com/shashwats538/shashwats538/main/assets/dev.gif" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashwats538" alt="shashwats538" /> </p>
 
 - 🔭 I’m currently working on **improving my technical skills.**
