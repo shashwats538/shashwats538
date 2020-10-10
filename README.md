@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS ☁️.**
 
-- 👯 I’m looking to collaborate on **blockchain based payment system.**
+- 👯 I’m looking to collaborate on **Blockchain based payment system.**
 
 - 😄 Pronouns **He/his.**
 
@@ -17,7 +17,7 @@
 
 - 💬 Brainstorm with me over **Tech, Algorithms and Career.**
 
-- 📫 How to reach me **shashwats538@gmail.com**
+- 📫 Reach me @ **shashwats538@gmail.com**
 
 - ⚡ Fun fact **I love brainstorming over real life problems.**
 <hr>
