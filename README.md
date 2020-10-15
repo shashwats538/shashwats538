@@ -5,21 +5,21 @@
 
 <img align="right" width=300px alt="Github Cat" src="https://raw.githubusercontent.com/shashwats538/shashwats538/main/assets/dev.gif" />
 
-- 🔭 I’m currently working on **improving my technical skills.**
+- 🔭 I’m currently working on: **improving my technical skills.**
 
-- 🌱 I’m currently learning **AWS ☁️.**
+- 🌱 I’m currently learning: **Cloud Technologies☁️.**
 
-- 👯 I’m looking to collaborate on **Blockchain based payment system.**
+- 👯 I’m looking to collaborate on: **Blockchain based payment system.**
 
-- 😄 Pronouns **He/his.**
+- 😄 Pronouns: **He/his.**
 
-- 👨‍💻 My Portfolio Website (Coming Soon)
+- 👨‍💻 My Portfolio Website: (Coming Soon)
 
-- 💬 Brainstorm with me over **Tech, Algorithms and Career.**
+- 💬 Brainstorm with me over: **Tech, Algorithms and Career.**
 
 - 📫 Reach me @ **shashwats538@gmail.com**
 
-- ⚡ Fun fact **I love brainstorming over real life problems.**
+- ⚡ Fun fact: **I love brainstorming over real life problems.**
 <hr>
 <p align="center">
 <h2 align="center"><b><u>Connect with me:</u></b></h3><br>
