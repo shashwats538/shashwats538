@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashwats538" alt="shashwats538" /> </p>
 
-<img align="right" width=300px alt="Github Cat" src="https://raw.githubusercontent.com/shashwats538/shashwats538/main/assets/dev.gif" />
+<img align="right" width=300px alt="Developer Gif" src="https://raw.githubusercontent.com/shashwats538/shashwats538/main/assets/dev.gif" />
 
 - 🔭 I’m currently working on: **improving my technical skills.**
 
