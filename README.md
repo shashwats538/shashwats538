@@ -22,7 +22,7 @@
 - ⚡ Fun fact: **I love brainstorming over real life problems.**
 <hr>
 <p align="center">
-<h2 align="center"><ins>Connect with me:🤝</ins></h3><br>
+<h2 align="center"><ins>Connect with me:</ins>🤝</h3><br>
 <p align="center">
 <a href="https://twitter.com/shashwat_shahi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shashwat_shahi_" height="30" width="40" /></a>&emsp;|&emsp;
 <a href="https://github.com/shashwats538_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="shashwats538 height="30" width="40" /></a>&emsp;|&emsp;
