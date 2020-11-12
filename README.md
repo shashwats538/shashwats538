@@ -13,7 +13,7 @@
 
 - 😄 Pronouns: **He/his.**
 
-- 👨‍💻 My Portfolio Website: **Coming Soon**
+- 👨‍💻 My Portfolio Website: **[Coming Soon]**
 
 - 💬 Brainstorm with me over: **Tech, Algorithms and Career.🎯**
 
