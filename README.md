@@ -5,7 +5,7 @@
 
 <img align="right" width=300px alt="Developer Gif" src="https://raw.githubusercontent.com/shashwats538/shashwats538/main/assets/dev.gif" />
 
-- 🔭 I’m currently working on: **improving my technical skills.**
+- 🔭 I’m currently working on: **improving my technical skills🖥️.**
 
 - 🌱 I’m currently learning: **Cloud Technologies☁️.**
 
@@ -19,7 +19,7 @@
 
 - 📫 Reach me @ **shashwats538@gmail.com**🌐
 
-- ⚡ Fun fact: **I love brainstorming over real life problems.**
+- ⚡ Fun fact: **I love brainstorming over real life problems.🏹**
 <hr>
 <p align="center">
 <h2 align="center"><ins>Connect with me:</ins>🤝</h3><br>
