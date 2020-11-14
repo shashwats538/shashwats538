@@ -5,7 +5,7 @@
 
 <img align="right" width=300px alt="Developer Gif" src="https://raw.githubusercontent.com/shashwats538/shashwats538/main/assets/dev.gif" />
 
-- 🔭 I’m currently working on: **improving my technical skills🖥️.**
+- 🔭 I’m currently working on: **improving my technical skills.🖥️**
 
 - 🌱 I’m currently learning: **Cloud Technologies☁️.**
 
