@@ -17,7 +17,7 @@
 
 - 💬 Brainstorm with me over: **Tech, Algorithms and Career.🎯**
 
-- 📫 Reach me @ **shashwats538@gmail.com**🌐
+- 📫 Reach me @ **shashwats538@gmail.com**📨
 
 - ⚡ Fun fact: **I love brainstorming over real life problems.🏹**
 <hr>
