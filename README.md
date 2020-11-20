@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **Cloud Technologies☁️.**
 
-- 👯 I’m looking to collaborate on: **Blockchain based Payment Systems.**
+- 👯 I’m looking to collaborate on: **Blockchain based Payment Systems.**🤳🏻
 
 - 😄 Pronouns: **He/his.**
 
