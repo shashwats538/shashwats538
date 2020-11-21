@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on: **Blockchain based Payment Systems.**🤳🏻
 
-- 😄 Pronouns: **He/his.**
+- 😄 Pronouns: **He/his.**🤠
 
 - 👨‍💻 My Portfolio Website: **[Coming Soon]** ⏳
 
