@@ -15,7 +15,7 @@
 
 - 👨‍💻 My Portfolio Website: **[Coming Soon]** ⏳
 
-- 💬 Brainstorm with me over: **Tech, Algorithms and Career.🎯**
+- 💬 Brainstorm with me over: **Tech, Algorithms and Career.**🎯
 
 - 📫 Reach me @ **shashwats538@gmail.com**📨
 
