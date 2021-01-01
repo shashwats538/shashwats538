@@ -38,4 +38,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwats538&layout=compact" alt="shashwats538" /></p>
 <hr><br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwats538&show_icons=true" alt="shashwats538" /></p>
-<p align="center">⭐️ and ❤️ From [shashwats538](https://github.com/shashwats538)</p>
+<p align="center">⭐️ and  From [shashwats538](https://github.com/shashwats538)</p>
