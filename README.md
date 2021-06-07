@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Myself Shashwat Shahi😎</h1>
-<h3 align="center">A Passionate Aspiring Software Engineer from India and A Beginner in Open Source Contributions.</h3>
+<h3 align="center">A Software Engineer from India and A Beginner in Open Source Contributions.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashwats538" alt="shashwats538" /> </p>
 
